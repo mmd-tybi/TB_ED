@@ -12,7 +12,7 @@
                 "_UNICODE"
             ],
             "cStandard": "c99",
-            "intelliSenseMode": "windows-gcc-x64"
+            "intelliSenseMode": "windows-gcc-x86"
         }
     ],
     "version": 4
